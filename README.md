@@ -45,10 +45,14 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Sahu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-sahu/)
-[![GitHub](https://img.shields.io/badge/GitHub-bhoomi--sahu-black?style=for-the-badge&logo=github)](https://github.com/bhoomi-sahu)
-[![Gmail](https://img.shields.io/badge/Gmail-sbhoomi953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sbhoomi953@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Bhoomisahu-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Bhoomisahu/)
+[![LinkedIn]
+(https://img.shields.io/badge/LinkedIn-Bhoomi%20Sahu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-sahu/)
+[![GitHub]
+(https://img.shields.io/badge/GitHub-bhoomi--sahu-black?style=for-the-badge&logo=github)](https://github.com/bhoomi-sahu)
+[![Gmail]
+(https://img.shields.io/badge/Gmail-sbhoomi953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sbhoomi953@gmail.com)
+[![LeetCode]
+(https://img.shields.io/badge/LeetCode-Bhoomisahu-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Bhoomisahu/)
 
 ---
 
