@@ -16,7 +16,6 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 - Node.js
 - MongoDB
 - Docker
-- Sql
 - Java
 - Git & GitHub
 - VS Code
