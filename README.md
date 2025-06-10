@@ -3,7 +3,6 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 - 👀 I’m interested in **Frontend Development, and AI Tools**
 - 🌱 I’m currently learning **MERN Stack, and Java DSA,**
 - 💞️ I’m looking to collaborate on **open-source projects, hackathons, and mini web apps**
-- 📫 How to reach me: **sbhoomi953@gmail.com**
 - 😄 Pronouns: **She/Her**
 
 
