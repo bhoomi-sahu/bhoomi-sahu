@@ -18,6 +18,7 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 - Java
 - Git & GitHub
 - VS Code
+- Genrative AI
   
 
   ### 📌 Projects & Work
