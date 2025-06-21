@@ -1,7 +1,7 @@
 Hi, I’m **Bhoomi Sahu** –
 A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 - 👀 I’m interested in **Frontend Development, and AI Tools**
-- 🌱 I’m currently learning **MERN Stack, and Java DSA,**
+- 🌱 I’m currently learning **React.js, and Java DSA,**
 - 💞️ I’m looking to collaborate on **open-source projects, hackathons, and mini web apps**
 - 😄 Pronouns: **She/Her**
 
@@ -12,9 +12,6 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 - CSS
 - JavaScript
 - React.js
-- Node.js
-- MongoDB
-- Docker
 - Java
 - Git & GitHub
 - VS Code
