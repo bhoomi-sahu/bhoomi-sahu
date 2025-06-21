@@ -35,7 +35,7 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 
 - 💡 Google Summer of Code 2026 (GSoC)
 - 💻 Internship in  2025
-- 🧠 Java DSA + mern-stack mastery
+- 🧠 Java DSA + React.js
 
 > "Turning caffeine into code, bugs into features, and ideas into deployable reality. 👩‍💻⚙️"
 > "Commit. Push. Learn. Repeat. The terminal is open, and the journey has just begun..."
