@@ -22,9 +22,8 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
 
 -  **Amazon Clone** – Clone of Amazon homepage using **HTML & CSS**
 -  **Calculator** – Simple calculator built with **HTML, CSS, JavaScript**
--  **Find App** – Search-based frontend app using **HTML, CSS, JavaScript**
 -  **Weather App** – Weather forecast app using **React.js** & OpenWeather API
--  **Wanderlust** – Full-stack listing platform like Airbnb using **HTML, CSS, JavaScript, Node.js, MongoDB**
+-  **Wanderlust** –  listing platform like Airbnb using **HTML, CSS, JavaScript, Node.js, MongoDB**
 -  **Portfolio Website** – Personal portfolio built with **React.js**
 
 
