@@ -19,12 +19,12 @@ A 2nd-year B.Tech CSE student at Sage University, Bhopal.
   
 
   ### 📌 Projects & Work
-
--  **Amazon Clone** – Clone of Amazon homepage using **HTML & CSS**
--  **Calculator** – Simple calculator built with **HTML, CSS, JavaScript**
--  **Weather App** – Weather forecast app using **React.js** & OpenWeather API
+    
 -  **Wanderlust** –  listing platform like Airbnb using **HTML, CSS, JavaScript, Node.js, MongoDB**
 -  **Portfolio Website** – Personal portfolio built with **React.js**
+-  **Weather App** – Weather forecast app using **React.js** & OpenWeather API
+-   **Calculator** – Simple calculator built with **HTML, CSS, JavaScript**
+-   **Amazon Clone** – Clone of Amazon homepage using **HTML & CSS**
 
 
 ### 📚 Currently Preparing For
