@@ -1,40 +1,44 @@
-Hi, I’m **Bhoomi Sahu** –
+👋 Hi, I’m Bhoomi Sahu
+
 A 3rd-year B.Tech CSE student at Sage University, Bhopal.
-- 👀 I’m interested in **Frontend Development, and AI Tools**
-- 🌱 I’m currently learning **React.js, and Java DSA,**
-- 💞️ I’m looking to collaborate on **open-source projects, hackathons, and mini web apps**
-- 😄 Pronouns: **She/Her**
+
+👀 I’m interested in Frontend Development and AI Tools
+
+🌱 Currently learning React.js and Java DSA
+
+💞️ Looking to collaborate on open-source projects, hackathons, and mini web apps
+
+😄 Pronouns: She/Her
+
 
 
 ### 🛠️ Skills & Tools
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Java
-- Git & GitHub
-- VS Code
-- Genrative AI
+HTML,CSS,JavaScript
+React.js
+Java
+Git & GitHub
+VS Code
+Generative AI
   
+### 📌 Projects & Work
+### Wanderlust –
+Listing platform like Airbnb using HTML, CSS, JavaScript, Node.js, MongoDB
 
-  ### 📌 Projects & Work
-    
--  **Wanderlust** –  listing platform like Airbnb using **HTML, CSS, JavaScript, Node.js, MongoDB**
--  **Portfolio Website** – Personal portfolio built with **React.js**
--  **Weather App** – Weather forecast app using **React.js** & OpenWeather API
--   **Calculator** – Simple calculator built with **HTML, CSS, JavaScript**
--   **Amazon Clone** – Clone of Amazon homepage using **HTML & CSS**
+### Portfolio Website –
+Personal portfolio built with React.js
 
+### Weather App –
+Weather forecast app using React.js & OpenWeather API
 
 ### 📚 Currently Preparing For
+📚 Currently Preparing Formmer of Code 2026 (GSoC)
 
-- 💡 Google Summer of Code 2026 (GSoC)
-- 💻 Internship in  2025
-- 🧠 Java DSA + React.js
+💻 Internship Opportunities in 2025
 
-> "Turning caffeine into code, bugs into features, and ideas into deployable reality. 👩‍💻⚙️"
-> "Commit. Push. Learn. Repeat. The terminal is open, and the journey has just begun..."
+🧠 Strengthening Java DSA & React.js skills
+
+"Turning caffeine into code, bugs into features, and ideas into deployable reality. 👩‍💻⚙️"
+"Commit. Push. Learn. Repeat. The terminal is open, and the journey has just begun..."
 
 
 ### 📫 Let's Connect
