@@ -2,9 +2,7 @@
 
 A 3rd-year B.Tech CSE student at Sage University, Bhopal.
 
-👀 I’m interested in Frontend Development and Gen AI
-
-🌱 Frontend Devlopment and Java DSA
+🌱 Full-Stack  Devlopment and Java DSA
 
 💞️ Looking to collaborate on open-source projects, hackathons, and web Projects and Products
 
@@ -13,14 +11,16 @@ A 3rd-year B.Tech CSE student at Sage University, Bhopal.
 
 
 ### 🛠️ Skills & Tools
-HTML,CSS,JavaScript
-React.js
-Java
+HTML,CSS,Bootstrap,JavaScript
+React.js, Tailwind
+Nodejs, MongoDB
+Core Java and DSA
 Git & GitHub
 VS Code
 Generative AI
   
 ### 📌 Projects & Work
+
 ### Nestin –
 Listing platform to give home and room for rent using HTML, CSS, JavaScript, Node.js, MongoDB
 
@@ -30,7 +30,6 @@ Personal portfolio built with React.js
 ### Weather App –
 Weather forecast app using React.js & OpenWeather API
 
-🧠 Strengthening Java DSA & React.js skills
 
 "Turning caffeine into code, bugs into features, and ideas into deployable reality. 👩‍💻⚙️"
 "Commit. Push. Learn. Repeat. The terminal is open, and the journey has just begun..."
