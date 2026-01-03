@@ -21,6 +21,9 @@ Generative AI
   
 ### 📌 Projects & Work
 
+### MyGpt https://mygpt-frontend-i2v8.onrender.com
+ GPT is a full-stack MERN-based AI chat application built from scratch using the Groq API.
+
 ### Nestin –
 Listing platform to give home and room for rent using HTML, CSS, JavaScript, Node.js, MongoDB
 
