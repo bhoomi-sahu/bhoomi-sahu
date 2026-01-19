@@ -17,7 +17,7 @@ Nodejs, MongoDB
 Core Java and DSA
 Git & GitHub
 VS Code
-Generative AI
+
   
 ### 📌 Projects & Work
 
