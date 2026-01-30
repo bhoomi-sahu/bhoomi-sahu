@@ -13,10 +13,11 @@ A 3rd-year B.Tech CSE student at Sage University, Bhopal.
 ### 🛠️ Skills & Tools
 HTML,CSS,Bootstrap,JavaScript
 React.js, Tailwind
-Nodejs, MongoDB
+Nodejs, MongoDB,SQL
 Core Java and DSA
 Git & GitHub
 VS Code
+Basics of Docker
 
   
 ### 📌 Projects & Work
