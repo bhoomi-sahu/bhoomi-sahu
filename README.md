@@ -25,10 +25,10 @@ Basics of Docker
 ### MyGpt https://mygpt-frontend-i2v8.onrender.com
  GPT is a full-stack MERN-based AI chat application built from scratch using the Groq API.
 
-### Nestin –
+### Nestin – https://nestinf.onrender.com/
 Listing platform to give home and room for rent using HTML, CSS, JavaScript, Node.js, MongoDB
 
-### Portfolio Website –
+### Portfolio Website –https://bhoomi-sahu.vercel.app/
 Personal portfolio built with React.js
 
 ### Weather App –
