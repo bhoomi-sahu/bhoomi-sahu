@@ -45,7 +45,7 @@ Weather forecast app using React.js & OpenWeather API
 
 [![GitHub](https://img.shields.io/badge/GitHub-bhoomi--sahu-black?style=for-the-badge&logo=github)](https://github.com/bhoomi-sahu)
 
-[![Gmail](https://img.shields.io/badge/Gmail-sbhoomi953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sbhoomi953@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sbhoomi953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhoomisahu002@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Bhoomisahu-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Bhoomisahu/)
 
