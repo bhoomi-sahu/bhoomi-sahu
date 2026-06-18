@@ -1,6 +1,6 @@
 👋 Hi, I’m Bhoomi Sahu
 
-A 3rd-year B.Tech CSE student at Sage University, Bhopal.
+ B.Tech CSE student at Sage University, Bhopal.(2027)
 
 🌱 Full-Stack  Devlopment and Java DSA
 
